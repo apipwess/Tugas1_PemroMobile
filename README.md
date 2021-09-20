@@ -1,6 +1,4 @@
-# cobavoba
-
-A new Flutter project.
+# Tugas 1 Pemograman Mobile TM
 
 ## Getting Started
 
